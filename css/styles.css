@@ -1,0 +1,51 @@
+
+.jumbotron{
+    height:100vh;
+    background-position: center;
+    background-size: cover;  
+    background-attachment: fixed;
+ 
+}
+
+.jumbo1{
+    background-image: url(/images/pexels-photo-1078983.jpeg);
+}
+.jumbo2{
+    background-image: url(https://images.pexels.com/photos/673865/pexels-photo-673865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
+
+.jumbo3{
+    background-image: url(https://images.pexels.com/photos/3417701/pexels-photo-3417701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);    
+}
+.jumbo4{
+    background-image: url(/images/pexels-photo-1904849.jpeg);    
+}
+h1{
+    font-family: caveat;
+    font-size: xx-large   
+}
+.lead{
+    font-family: gruppo;
+    padding-left: 20rem;
+    padding-right: 20rem;
+}
+.display-4{
+    margin-top: 9rem;
+}
+.navbar{
+    position: absolute;
+    top: 0;
+}
+#paradise{
+    text-align: center;
+    margin-top: 11%;
+    font-size: 7rem;
+}
+
+
+.container .beach{
+    height: 4rem;
+    width: 5rem;
+    background-color: grey;
+    opacity: 10%;
+}  
