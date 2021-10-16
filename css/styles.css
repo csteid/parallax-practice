@@ -8,7 +8,7 @@
 }
 
 .jumbo1{
-    background-image: url(/parallax-practice/images/pexels-photo-1078983.jpeg);
+    background-image: url(./parallax-practice/images/pexels-photo-1078983.jpeg);
 }
 .jumbo2{
     background-image: url(https://images.pexels.com/photos/673865/pexels-photo-673865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
@@ -18,7 +18,7 @@
     background-image: url(https://images.pexels.com/photos/3417701/pexels-photo-3417701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);    
 }
 .jumbo4{
-    background-image: url(/parallax-practice/images/pexels-photo-1904849.jpeg);    
+    background-image: url(./parallax-practice/images/pexels-photo-1904849.jpeg);    
 }
 h1{
     font-family: caveat;
